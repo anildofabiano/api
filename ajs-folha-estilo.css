@@ -1,0 +1,15 @@
+/*
+AJS SERVIÇOS E SOLUÇÕES
+Desenvolvimento de Sistemas Web Personalizados.
+Linguagens  de programação: PHP, HTML5, CSS3, JavaScript, JSON, JQuery e SQL.
+*/
+/* 
+    Created on : 03/07/2018, 21:58:16
+    Author     : AnildoFabiano
+*/
+*{margin: 0;padding: 0;box-sizing: border-box;font-size: 100%;}
+.ajs-header{width: 100%;height: 100px;background: #ff0;}
+.ajs-header section{float: right;margin-top: 50px;margin-right: 100px;}
+.ajs-header section span {font-size: 18pt;}
+.ajs-main section{width: 300px;height: 170px;display: block;float: left;border: 1px solid #000;margin-left: 27px;margin-top: 10px;}
+.ajs-main section img{width: 100%;height: 100%;}
